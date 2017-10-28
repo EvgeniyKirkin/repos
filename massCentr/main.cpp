@@ -2,10 +2,6 @@
 
 int main(int argc, const char *argv[]) 
 {
-
-	cout<<"read MSH file by gmsh fyd"
-
-
 	char nameoffile[STR_MAX_SIZE];				//, nameofMSHfile[STR_MAX_SIZE];	
 	int N_element(0);
 
